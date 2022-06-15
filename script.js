@@ -1,3 +1,4 @@
+//Note: Im on a school chromebook so all my cites are banned i cant see anything im doing .i did my best to get the script to work :)
 /Global Variables
 Minim minim;
 AudioPlayer[4] song = new AudioPlayer[4]; 
